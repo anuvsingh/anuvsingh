@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuvsingh&label=Profile%20views&color=0e75b6&style=flat" alt="anuvsingh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/anuvsingh" target="blank"><img src="https://img.shields.io/twitter/follow/anuvsingh?logo=twitter&style=for-the-badge" alt="anuvsingh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/21AnubhavSingh" target="blank"><img src="https://img.shields.io/twitter/follow/anuvsingh?logo=twitter&style=for-the-badge" alt="anuvsingh" /></a> </p>
 
 - 🔭 I’m currently working on **Java Development & Frontend Development**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anuvsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuvsingh" height="30" width="40" /></a>
+<a href="https://twitter.com/21AnubhavSingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuvsingh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anubhav-singh-62784b343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anubhav-singh-62784b343" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anubhav_singh21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anubhav_singh21" height="30" width="40" /></a>
 </p>
